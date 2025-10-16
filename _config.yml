@@ -13,10 +13,10 @@ title                    : "Isaac's Website"
 title_separator          : "-"
 name                     : &name "Isaac David Ramirez Limones"
 description              : &description "I am a Master's Mathematics student. Enthusiast of Geometry, Actuarial Sciences and Risk Analysis"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://IsaacoD123.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://isaacod123.github.io/isaac-ramirez.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "IsaacoD123/isaac-ramirez.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Isaac David Ramírez Limones"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Frankfurt am Main"
+  location         : "Frankfurt am Main, Germany"
   employer         : "Johann Wolfgang Goethe-Universität"
   uri              : # URL
   email            : "ramirezlimonesisaac@gmail.com" 
@@ -35,12 +35,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

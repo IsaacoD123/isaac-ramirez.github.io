@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello, my name is Isaac! "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+➗ I am a Master's Student of Mathematics at Goethe University in Frankfurt, Germany.
+
+🔭 My academic interests are geometry and analysis. 
+
+🏦 I am also interested in actuarial sciences and risk analysis.
+
+💪 Outside of professional environment I like to read, go to the gym and learn languages. Currently I am learning korean.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
