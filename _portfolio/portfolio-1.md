@@ -4,4 +4,5 @@ excerpt: "In this project, I explored Generalized Linear Models and their applic
 collection: portfolio
 ---
 
-<iframe src="/files/Case_studies_Insurance.pdf" width="100%" height="600px"></iframe>
+[Download the PDF](/files/Case_studies_Insurance.pdf)
+
